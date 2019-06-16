@@ -25,3 +25,6 @@ where
   * `'dim'` (int) embedding dimesionality, default 512
   * `'nbins'` (int) number of distance quantizations, default 10
   * `'solver'` (string) SGD optimizer. Default: `'adam'`. Others: `'sgd', 'adadelta', 'adagrad', 'rmsprop'`
+
+### Notes
+* Our experiments are mainly run on a Titan X Pascal GPU with 12GB memory. If your GPU has a different amount of memory, you may want to change the default value of `opts.maxGpuImgs` (in `+models/*.m`) accordingly for each model architecture.
