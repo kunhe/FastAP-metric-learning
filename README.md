@@ -28,6 +28,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 * **Matlab**: see `matlab/README.md`
 * **PyTorch**: coming soon
 
+## Contact
+For questions and comments, feel free to contact: kunhe26@gmail.com or fcakirs@gmail.com
 
 ## License
 MIT
