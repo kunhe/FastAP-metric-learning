@@ -1,5 +1,13 @@
 ## Matlab implementation of "Deep Metric Learning to Rank"
 
+### Requirements
+* Matlab R2017b or newer
+  * This is to use the built-in [mink](https://www.mathworks.com/help/matlab/ref/mink.html) function. 
+  * Alternatively, for earlier Matlab versions, you can use [this implementation](https://www.mathworks.com/matlabcentral/fileexchange/23576-min-max-selection) of mink.
+* [MatConvNet](http://www.vlfeat.org/matconvnet/) v1.0-beta25 (with [`vl_contrib`](http://www.vlfeat.org/matconvnet/mfiles/vl_contrib/))
+* [mcnExtraLayers](https://github.com/albanie/mcnExtraLayers) via `vl_contrib setup mcnExtraLayers`
+* [autonn](https://github.com/vlfeat/autonn) via `vl_contrib setup autonn`
+
 ### Preparation
 * Install/symlink MatConvNet at `./matconvnet` under this directory
 * Create or symlink a directory `./cachedir` under the this directory
