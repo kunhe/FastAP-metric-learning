@@ -5,6 +5,7 @@ This repository contains implementation of the following paper:
 [Fatih Cakir](http://cs-people.bu.edu/fcakir/)\*, [Kun He](http://cs-people.bu.edu/hekun/)\*, [Xide Xia](https://xidexia.github.io), [Brian Kulis](http://people.bu.edu/bkulis/), and [Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/) (*equal contribution)<br>
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 
+![](fastap_github.jpg)
 ## Usage 
 * **Matlab**: see `matlab/README.md`
 * **PyTorch**: see `pytorch/README.md`
