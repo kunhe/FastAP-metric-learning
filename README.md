@@ -20,7 +20,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 
 ## Reproducibility
 * We provide trained [MatConvNet](https://www.vlfeat.org/matconvnet/quick/) models and experimental logs for the results in the paper. These models were used to achieve the results in the tables.
-* The logs also include parameters settings that enable one to re-train a model if desired. It also includes evaluation results with model checkpoints at certain epochs .
+* The logs also include parameters settings that enable one to re-train a model if desired. It also includes evaluation results with model checkpoints at certain epochs.
     * Table 1: Stanford Online Products
         * FastAP, ResNet-18, M=256, Dim=512: [[model @ epoch 20](https://drive.google.com/file/d/1sPCG34rV4Bqf0aWF7GrFIDUK7DGjcaB5/view?usp=sharing), [log](https://drive.google.com/open?id=14m3fHgeZu8MIAePFHXe141R60KRwH1d8)]
         * FastAP, ResNet-50, M=96, Dim=128: [[model @ epoch 30](https://drive.google.com/open?id=1yGUVTskdERdLeF85GP-lLRnwS0KhpvvL), [log](https://drive.google.com/open?id=1A0G1aUBS7URotInbT7eBbys4xfARvCCe)]
