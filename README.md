@@ -38,6 +38,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
         (M=mini-batch size)
  * PyTorch code is a direct port from our MATLAB implementation. We haven't tried reproducing the paper results with our PyTorch code. **For reproducibility use the MATLAB version**. 
  * Note that the mini-batch sampling strategy must also be used alongside the FastAP loss for good results.
+ 
+## Other Implementations
+[FastAPLoss](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#fastaploss) from [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 ## Contact
 For questions and comments, feel free to contact: kunhe26@gmail.com or fcakirs@gmail.com
