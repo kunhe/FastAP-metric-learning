@@ -43,7 +43,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 [FastAPLoss](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/#fastaploss) from [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 ## Contact
-For questions and comments, feel free to contact: kunhe26@gmail.com or fcakirs@gmail.com
+For questions and comments, feel free to contact: kunhe@ieee.org or fcakirs@gmail.com
 
 ## License
 MIT
